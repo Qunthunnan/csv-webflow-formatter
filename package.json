@@ -1,0 +1,16 @@
+{
+  "name": "csv-webflow-formatter",
+  "version": "1.0.0",
+  "main": "csv-webflow-formatter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "slugify": "^1.6.6"
+  }
+}
