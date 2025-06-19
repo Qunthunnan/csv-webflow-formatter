@@ -3,7 +3,8 @@
 	"version": "1.0.0",
 	"main": "csv-webflow-formatter.js",
 	"scripts": {
-		"start": "node csv-webflow-formatter.js"
+		"formatter": "node csv-webflow-formatter.js",
+		"filler": "node csv-webflow-filler.js"
 	},
 	"author": "Qunthunnan",
 	"license": "ISC",
